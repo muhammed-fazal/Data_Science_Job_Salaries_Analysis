@@ -4,6 +4,9 @@ This project is an interactive Power BI Dashboard analyzing global salary trends
 
 ---
 
+![Dashboard Screenshot](https://github.com/muhammed-fazal/Data_Science_Job_Salaries_Analysis/blob/main/Screenshot%202025-06-30%20190533.png)
+
+---
 ## 📌 Project Overview
 
 I built this dashboard to explore how factors like job roles, employment type, company size, work mode, experience level, and location affect salaries in the data science job market.
@@ -49,11 +52,10 @@ The final **cleaned dataset** is included: [`DS_cleaned.csv`](./DS_cleaned.csv)
 
 ---
 
-## 📷 Dashboard Snapshot
-
-![Dashboard Screenshot](https://github.com/muhammed-fazal/Data_Science_Job_Salaries_Analysis/blob/main/Screenshot%202025-06-30%20190533.png)
+![Dashboard Screenshot](https://github.com/muhammed-fazal/Data_Science_Job_Salaries_Analysis/blob/main/Screenshot%202025-06-30%20190546.png)
 
 ---
+https://github.com/muhammed-fazal/Data_Science_Job_Salaries_Analysis/blob/main/Screenshot%202025-06-30%20190546.png
 ## 📑 Dashboard PDF
 
 You can view the full dashboard in the PDF report:  
